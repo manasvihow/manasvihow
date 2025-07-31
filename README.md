@@ -15,12 +15,12 @@ I'm a software developer with a Bachelor's in Electronics and Communication Engi
 <div align="center">
   <img src="https://github.com/user-attachments/assets/78a63cc6-5da0-40a8-b72a-941c6239dbd3" width="500" alt="p5.js Art"/>
   <br>
-  <em>Cat Distribution System</em>
-  <br>
-  <br style="margin-bottom: 10px">
+  <em>Cat Distribution System</em><br>
+  <a href="https://editor.p5js.org/manasvihow/sketches/TnI2BDD1Z" target="_blank">View Live Sketch</a>
 </div>
 
-This piece showcases how JavaScript becomes an artistic medium through creative coding.
+This piece explores how JavaScript becomes an artistic medium through creative coding.
+
 
 ## Tech Stack
 
