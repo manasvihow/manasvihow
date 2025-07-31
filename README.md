@@ -2,7 +2,13 @@
 
 I'm a software developer with a Bachelor's in Electronics and Communication Engineering from IIT Roorkee. I specialize in building robust, user-focused web applications and APIs. I care about writing maintainable code, automating repetitive tasks, and choosing the right tools for the job.
 
-<iframe src="https://editor.p5js.org/manasvihow/full/Uojid9ORv"></iframe>
+---
+
+## Coding is Art Too
+
+<iframe src="https://editor.p5js.org/manasvihow/full/Uojid9ORv" width="100%" height="400" frameborder="0"></iframe>
+
+To me, programming isn't just about algorithms and data structures - it's a creative medium. This interactive piece was created with p5.js, showing how code can be used to make beautiful, expressive art just as much as functional systems.
 
 ---
 
