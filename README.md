@@ -4,13 +4,18 @@ I'm a software developer with a Bachelor's in Electronics and Communication Engi
 
 ---
 
-## Coding is Art Too
+## Code Can Be Canvas
 
-<iframe src="https://editor.p5js.org/manasvihow/full/Uojid9ORv" width="100%" height="400" frameborder="0"></iframe>
+<div align="center">
+  <video src="https://github.com/manasvihow/p5js-art/blob/d9f225719fda4f594804a48a815b9280c05fb63e/cat-distribution-system.mp4" width="500" autoplay loop muted playsinline></video>
+</div>
 
-To me, programming isn't just about algorithms and data structures - it's a creative medium. This interactive piece was created with p5.js, showing how code can be used to make beautiful, expressive art just as much as functional systems.
+For me, programming transcends algorithms - it's a paintbrush for digital expression. This piece showcases how JavaScript becomes an artistic medium through creative coding. The best solutions often emerge where logic meets imagination.
 
 ---
+
+## Tech Stack
+[... rest of your existing content ...]
 
 ## Tech Stack
 
