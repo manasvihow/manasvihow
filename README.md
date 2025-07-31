@@ -15,9 +15,6 @@ For me, programming transcends algorithms - it's a paintbrush for digital expres
 ---
 
 ## Tech Stack
-[... rest of your existing content ...]
-
-## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
