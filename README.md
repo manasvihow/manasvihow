@@ -17,6 +17,8 @@ I'm a software developer with a Bachelor's in Electronics and Communication Engi
   <br>
   <em>Cat Distribution System</em><br>
   <a href="https://editor.p5js.org/manasvihow/sketches/TnI2BDD1Z" target="_blank">View Live Sketch</a>
+  <br>
+  <br style="margin-bottom: 10px;">
 </div>
 
 This piece explores how JavaScript becomes an artistic medium through creative coding.
