@@ -1,18 +1,26 @@
+
+
 # Hi, I'm Manasvi  
 
 I'm a software developer with a Bachelor's in Electronics and Communication Engineering from IIT Roorkee. I specialize in building robust, user-focused web applications and APIs. I care about writing maintainable code, automating repetitive tasks, and choosing the right tools for the job.
 
 ---
 
+
 ## Code Can Be Canvas
 
+### Where Algorithms Meet Aesthetics  
+*A digital experiment in creative coding with p5.js*
+
 <div align="center">
-  <video src="https://github.com/manasvihow/p5js-art/blob/d9f225719fda4f594804a48a815b9280c05fb63e/cat-distribution-system.mp4" width="500" autoplay loop muted playsinline></video>
+  <img src="https://github.com/user-attachments/assets/78a63cc6-5da0-40a8-b72a-941c6239dbd3" width="500" alt="p5.js Art"/>
+  <br>
+  <em>Cat Distribution System</em>
+  <br>
+  <br style="margin-bottom: 10px">
 </div>
 
-For me, programming transcends algorithms - it's a paintbrush for digital expression. This piece showcases how JavaScript becomes an artistic medium through creative coding. The best solutions often emerge where logic meets imagination.
-
----
+This piece showcases how JavaScript becomes an artistic medium through creative coding.
 
 ## Tech Stack
 
