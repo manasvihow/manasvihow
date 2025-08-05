@@ -2,7 +2,7 @@
 
 # Hi, I'm Manasvi  
 
-I'm a software developer with a Bachelor's in Electronics and Communication Engineering from IIT Roorkee. I specialize in building robust, user-focused web applications and APIs. I care about writing maintainable code, automating repetitive tasks, and choosing the right tools for the job.
+I'm a software developer specializing in building robust, user-focused web applications and APIs. I care about writing maintainable code, automating repetitive tasks, and choosing the right tools for the job.
 
 ---
 
