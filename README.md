@@ -1,11 +1,12 @@
 <h1 align="center">Hey, I’m Manasvi 👋</h1>
 <p align="center">
- 👩‍💻 Full-Stack Developer · 🏫 B.Tech Electronics & Communication (IIT Roorkee) · 🎨 Creative Coder 
+ 👩‍💻 Full-Stack Developer · 🏫 B.Tech Electronics & Communication (IIT Roorkee) · 🎨 CLI Enthusiast 
 </p>
 
 ---
 
 ### CLI Tools
+- **[pomo-cli](https://github.com/manasvihow/pomo-cli)** - A pomodoro timer for your command line.
 - **[sitcommit](https://github.com/manasvihow/sitcommit)** - A CLI that plays a sitcom laugh track every time you successfully commit. 🎊
 - **[ask8ball](https://github.com/manasvihow/ask8ball)** - A classic Magic 8 Ball that lives in your terminal. Ask it any yes-or-no question and let fate decide! 🎱
 
