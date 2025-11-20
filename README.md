@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I’m Manasvi 👋</h1>
 <p align="center">
- 👩‍💻 Full-Stack Developer · 🏫 B.Tech Electronics & Communication (IIT Roorkee) · 🎨 CLI Enthusiast 
+ 👩‍💻 Full-Stack Developer · 🏫 B.Tech Electronics & Communication · 🎨 CLI Enthusiast 
 </p>
 
 ---
