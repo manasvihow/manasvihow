@@ -30,15 +30,8 @@
 
 ### Core Toolkit
 `JavaScript` · `Python` · `React` · `Node.js` · `FastAPI` · `PostgreSQL` · `MongoDB` · `Docker`
-Detours into `p5js`, `GSAP`.
+Detours into `p5js`, `TouchDesigner`, `Strudel`.
 <br>
-<sub> Whatever the mission calls for 🔍 </sub>
-
-### Skills & Interests
-| 💻 Core Development | 🎨 Creative Tech | ⚙️ Hands-on |
-|-------------------------|--------------------|------------------------|
-| Full-Stack Architecture | Creative Coding | Embedded Systems |
-| API Design & Integration | Generative Art | IoT, Machine Learning |
 
 
 ### Elsewhere
